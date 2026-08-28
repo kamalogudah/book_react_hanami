@@ -1,0 +1,12 @@
+{
+  "name": "book_react",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "esbuild": "^0.28.1",
+    "hanami-assets": "^3.0.0",
+    "@inertiajs/react": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
